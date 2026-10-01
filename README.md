@@ -1,11 +1,15 @@
-# 2-Line-of-Defense-FIM500-
-Project for FIM500
+# 2-Line-of-Defense-FIM500
 
-Credit Card Fraud Detection Data obtained from:
+## Project 1: Credit Card Fraud Detection
+
+Credit Card Fraud Detection data obtained from Kaggle:  
 https://www.kaggle.com/datasets/uditjain13/credit-card-fraud-detection-2026/data
 
-EUR/USD foreign exchange rate data obtained from Yahoo Finance using the following code:
-'''python
+## Project 2: EUR/USD Foreign Exchange Rate Analysis
+
+EUR/USD foreign exchange rate data obtained from Yahoo Finance using the following Python code:
+
+```python
 data = yf.download(
     "EURUSD=X",
     start="2021-09-21",
