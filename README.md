@@ -17,3 +17,8 @@ data = yf.download(
     interval="1d",
     auto_adjust=False
 )
+
+## Project 3: Probability of Default Model
+
+Data for this project was pulled from Kaggle:
+https://www.kaggle.com/competitions/GiveMeSomeCredit/overview
