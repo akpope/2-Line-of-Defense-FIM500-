@@ -17,6 +17,7 @@ data = yf.download(
     interval="1d",
     auto_adjust=False
 )
+```
 
 ## Project 3: Probability of Default Model
 
