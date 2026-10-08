@@ -4,7 +4,7 @@
 
 This folder contains 4 files needed for validating/documenting this model;
 
-model.py - Python script containing the mode
+model.py - Python script containing the model
 
 model.ipynb - Jupyter notebook with the training, testing, and building of the model
 
